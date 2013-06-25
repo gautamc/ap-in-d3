@@ -48,4 +48,5 @@
 * The gis/ Directory contains the shapefile that can be viewed/edited using qgis
 * The shapefile is converted to geojson => topojson using the commands `ogr2ogr` and `topojson`
 
-* js/ap-d3.js renders to maps using svg via d3.js
+* js/ap-d3.js renders to maps using svg via d3.js.
+* http://visualizing.org/visualizations/comparing-district-wise-2001-and-2011-gender-ratios-andhra-pradesh-india
